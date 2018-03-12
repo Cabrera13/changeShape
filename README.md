@@ -14,7 +14,7 @@ You will see the assets folder, where you have the scenes folder, scripts, prefa
 
 - In the scenes, you store all the personalized scenes that you want to store in your project. 
 
-- Inside the scripts folder you will see all the code in CSharp language. There we divided all the logic of the game in the GameController, the cubes of the game with the specified shape, the player who is the element that you change the shape contiously to bypass the obstacles, and the UIManager who has the functions to change the text in the canvas.
+- Inside the scripts folder you will see all the code in CSharp language. There we divided all the logic of the game in the GameController, the cubes of the game with the specified shape, the player who is the element that you change the shape continuously to bypass the obstacles, and the UIManager who has the functions to change the text in the canvas.
 
 - In the prefabs folder we have the 3D ice explosion, the particle animation of the explosion when the player crashes and the particle system in the background, stars that disappear and appear continuosly.
 
