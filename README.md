@@ -12,13 +12,15 @@ After opening it with the correct unity version, you just need to open the MainS
 
 You will see the assets folder, where you have the scenes folder, scripts, prefabs, materials & images, shapes, sounds, fonts and ThirdParty folder.
 
-- In the scenes, you store all the personalized scenes that you want to store in your project. In the scripts folder you will see all the code in CSharp language. There we divided all the logic of the game in the GameController, the cubes of the game with the specified shape, the player who is the element that you change the shape contiously to bypass the obstacles, and the UIManager who has the functions to change the text in the canvas.
+- In the scenes, you store all the personalized scenes that you want to store in your project. 
+
+- Inside the scripts folder you will see all the code in CSharp language. There we divided all the logic of the game in the GameController, the cubes of the game with the specified shape, the player who is the element that you change the shape contiously to bypass the obstacles, and the UIManager who has the functions to change the text in the canvas.
 
 - In the prefabs folder we have the 3D ice explosion, the particle animation of the explosion when the player crashes and the particle system in the background, stars that disappear and appear continuosly.
 
-- In the material & images folder, we have all the material and images needed in the project.
+- Inside the material & images folder, we have all the material and images needed in the project.
 
-- In the shape folder we have the sphere, triangle and rectangle forms.
+- The shape folder contains the sphere, triangle and rectangle forms.
 
 - In the sounds folder we have all the sounds of the project that are reproduced with a audio player in the scene: start, crash, door miss, main theme... 
 
