@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeShape", "Assembly-CSharp.csproj", "{BFEC825E-0B10-C9AD-57E8-A9AA067D4D5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BFEC825E-0B10-C9AD-57E8-A9AA067D4D5B}"
 EndProject
-Project("{C978417D-B36D-70C6-FA2F-E48529B85902}") = "ChangeShape", "Assembly-UnityScript.unityproj", "{BBB69029-B81A-B15F-3C8E-DB376AEC7061}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeShape", "Assembly-CSharp-Editor.csproj", "{BC706312-5E1B-0563-0A17-A091AAFDCCD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{BC706312-5E1B-0563-0A17-A091AAFDCCD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{BFEC825E-0B10-C9AD-57E8-A9AA067D4D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFEC825E-0B10-C9AD-57E8-A9AA067D4D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFEC825E-0B10-C9AD-57E8-A9AA067D4D5B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BBB69029-B81A-B15F-3C8E-DB376AEC7061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BBB69029-B81A-B15F-3C8E-DB376AEC7061}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BBB69029-B81A-B15F-3C8E-DB376AEC7061}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BBB69029-B81A-B15F-3C8E-DB376AEC7061}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BC706312-5E1B-0563-0A17-A091AAFDCCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BC706312-5E1B-0563-0A17-A091AAFDCCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC706312-5E1B-0563-0A17-A091AAFDCCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
